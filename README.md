@@ -11,6 +11,7 @@ Big shout out to https://happycoding.io/tutorials/html/hosting and http://jmcglo
 
 
 I made it mobile friendly by doing what user *greywolf* suggested from [here](http://twinery.org/questions/35558/font-changing-size-based-on-amount-of-text-on-mobile?show=35558#q35558). Basically edit the .html file with a text editor and add the following viewport meta element to the head section of the file:
+
 `<meta name="viewport" content="width=device-width,initial-scale=1" />'
 
 
