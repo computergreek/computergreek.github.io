@@ -17,10 +17,12 @@ I made it mobile friendly by doing what user *greywolf* suggested from here: htt
 
 
 The top of the code should basically look like this:  
-> <!DOCTYPE html>
-> <html>
-> <head>
-> <meta charset="utf-8">
-> <meta name="viewport" content="width=device-width,initial-scale=1" />
-> <title>The name of the Story project</title>
-> ...
+```
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>The name of the Story project</title>
+...
+```
