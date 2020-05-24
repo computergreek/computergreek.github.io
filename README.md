@@ -13,9 +13,7 @@ Big shout out to https://happycoding.io/tutorials/html/hosting and http://jmcglo
 Domain bought from https://porkbun.com/ because it was cheap, loved that this particular domain registrar was small & indie, and as a bonus they made it REALLY easy to connect the domain to Github Pages with this article from their knowledge base https://kb.porkbun.com/article/64-how-to-connect-your-domain-to-github-pages.
 
 
-I made it mobile friendly by doing what user *greywolf* suggested from here: http://twinery.org/questions/35558/font-changing-size-based-on-amount-of-text-on-mobile?show=35558#q35558 which is inserting:
-`<meta name="viewport" content="width=device-width,initial-scale=1" />`
-in the top head section of the .html file by editing it with a text editor.
+I made it mobile friendly by doing what user *greywolf* suggested from [here](http://twinery.org/questions/35558/font-changing-size-based-on-amount-of-text-on-mobile?show=35558#q35558). Basically insert `<meta name="viewport" content="width=device-width,initial-scale=1" />` in the top head section of the .html file by editing it with a text editor.
 
 
 The top of the code should basically look like this:  
